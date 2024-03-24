@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Created Applications
-    'user_management'
+    'books',
+    'user_management',
 ]
 
 MIDDLEWARE = [
